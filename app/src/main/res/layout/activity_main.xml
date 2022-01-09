@@ -138,8 +138,8 @@
                     <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
                               android:textSize="12dp" android:text="Created By" android:textColor="#FFFFFF"/>
                     <TextView android:id="@+id/about" android:layout_width="wrap_content"
-                              android:layout_height="wrap_content" android:textSize="14dp"
-                              android:text="Ashish" android:textColor="#FFFFFF"/>
+                              android:layout_height="wrap_content" android:text="Ash Hari"
+                              android:textColor="#FFFFFF" android:textSize="14dp"/>
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>

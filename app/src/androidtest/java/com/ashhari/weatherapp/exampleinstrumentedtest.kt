@@ -1,4 +1,4 @@
-package com.ashish.weatherapp
+package com.ashhari.weatherapp
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

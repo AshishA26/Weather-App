@@ -1,4 +1,4 @@
-package com.ashish.weatherapp
+package com.ashhari.weatherapp
 
 import android.os.AsyncTask
 import android.os.Bundle
