@@ -6,6 +6,7 @@
                 android:padding="25dp"
                 android:background="@drawable/bg_gradient">
 
+
     <RelativeLayout android:id="@+id/mainContainer" android:layout_width="match_parent"
                     android:layout_height="match_parent" android:visibility="visible">
         <LinearLayout android:id="@+id/addressContainer" android:layout_width="match_parent"
@@ -17,6 +18,17 @@
             <TextView android:id="@+id/updated_at" android:layout_width="wrap_content"
                       android:layout_height="wrap_content" android:textSize="14dp"
                       android:text="Updated at: 01/11/2021 02:01 PM" android:textColor="#FFFFFF"/>
+            <TextView
+                android:id="@+id/latTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Latitude: "/>
+
+            <TextView
+                android:id="@+id/lonTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Longitude: "/>
         </LinearLayout>
 
 
